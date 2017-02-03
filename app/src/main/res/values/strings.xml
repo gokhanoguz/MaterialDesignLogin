@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MaterialDesignLogin</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="enter_valid_email_error">Enter a valid e-mail address</string>
+    <string name="enter_valid_password_error">Between 4 and 12 characters</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_main">MainActivity</string>
+
 </resources>
